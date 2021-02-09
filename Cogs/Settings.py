@@ -295,7 +295,7 @@ class Settings(commands.Cog):
 		self.migrated = False
 
 		if self.using_db:
-			self.db = client['pooter']
+			self.db = client['rusty-bot']
 			
 			# Check if we need to migrate some things
 			self.migrate(file)

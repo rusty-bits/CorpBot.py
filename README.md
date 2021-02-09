@@ -356,7 +356,7 @@ A list of cogs, commands, and descriptions:
 	  $eightball [question]
 	   └─ Get some answers.
 	  $lmap [question]
-	   └─ Let me ask Pooter...
+	   └─ Let me ask rusty-bot ...
 
 ## Emoji
 ####	Emoji Cog (2 commands) - Emoji.py Extension:
